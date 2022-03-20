@@ -17,7 +17,7 @@ Please report issues specific to the add-on
 
 - Open the Godot project manager.
 - Navigate to the **Templates** tab and search for "antialiased line2d".
-- Install the [*Antialiased Line2D Demo*](https://godotengine.org/asset-library/asset/TODO) project.
+- Install the [*Antialiased Line2D Demo*](https://godotengine.org/asset-library/asset/1267) project.
 
 ### Manual installation
 
