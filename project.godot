@@ -18,10 +18,16 @@ _global_script_classes=[ {
 "class": "AntialiasedPolygon2D",
 "language": "GDScript",
 "path": "res://addons/antialiased_line2d/antialiased_polygon2d.gd"
+}, {
+"base": "Polygon2D",
+"class": "AntialiasedRegularPolygon2D",
+"language": "GDScript",
+"path": "res://addons/antialiased_line2d/antialiased_regular_polygon2d.gd"
 } ]
 _global_script_class_icons={
 "AntialiasedLine2D": "res://addons/antialiased_line2d/antialiased_line2d.svg",
-"AntialiasedPolygon2D": "res://addons/antialiased_line2d/antialiased_polygon2d.svg"
+"AntialiasedPolygon2D": "res://addons/antialiased_line2d/antialiased_polygon2d.svg",
+"AntialiasedRegularPolygon2D": "res://addons/antialiased_line2d/antialiased_regular_polygon2d.svg"
 }
 
 [application]
