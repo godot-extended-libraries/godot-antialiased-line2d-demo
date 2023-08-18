@@ -1,4 +1,4 @@
-# Antialiased Line2D add-on demo project for Godot 3.x
+# Antialiased Line2D add-on demo project for Godot 4.x
 
 ![Screenshot](https://raw.githubusercontent.com/Calinou/media/master/godot-antialiased-line2d-demo/screenshot.png)
 
@@ -10,8 +10,6 @@ Please report issues specific to the add-on
 [here](https://github.com/godot-extended-libraries/godot-antialiased-line2d), not in this repository.
 
 ## Try it out
-
-**Note:** This add-on only supports Godot 3.x, not the current Godot `master` branch (4.0).
 
 ### Using the Asset Library
 
@@ -39,7 +37,7 @@ if you do not have Git installed.
 
 ## License
 
-Copyright © 2022 Hugo Locurcio and contributors
+Copyright © 2022-present Hugo Locurcio and contributors
 
 Unless otherwise specified, files in this repository are licensed under the
 MIT license. See [LICENSE.md](LICENSE.md) for more information.
